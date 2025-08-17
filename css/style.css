@@ -1,0 +1,31 @@
+html{
+    color: #3a3b45 ;
+}
+
+.img_logo{
+    width: 100%;
+    display: block; /* Transforma a imagem em um elemento de bloco */
+    margin: 10% auto; /* A margem "auto" centraliza horizontalmente */
+}
+
+.cor_fundo{
+    background-color: #B7FFB1;
+}
+
+.container{
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Altura da viewport */
+}
+
+.cor_botao{
+    background-color: #C285FF;
+    color: #3a3b45 ;
+}
+
+a {
+    text-decoration: none;
+    color: #3a3b45 ;
+}
+
