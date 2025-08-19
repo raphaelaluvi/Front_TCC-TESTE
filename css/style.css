@@ -5,7 +5,7 @@ html{
 .img_logo{
     width: 100%;
     display: block; /* Transforma a imagem em um elemento de bloco */
-    margin: 10% auto; /* A margem "auto" centraliza horizontalmente */
+    margin: 30% auto; /* A margem "auto" centraliza horizontalmente */
 }
 
 .cor_fundo{
@@ -29,3 +29,18 @@ a {
     color: #3a3b45 ;
 }
 
+.cor_fundoindex{
+    background-color: #C285FF;
+}
+
+.cor_rosa{
+    color: #e83e8c;
+}
+
+.border-left-rosa {
+  border-left: 0.25rem solid #e83e8c !important;
+}
+
+.bg-rosa {
+  background-color: #e83e8c !important;
+}
